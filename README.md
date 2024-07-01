@@ -14,11 +14,15 @@ ByteReady 是一款二进制文件剪切工具。
 
 - Quick expressions that calculate byte positions.
 
+- English language support.
+
 ---
 
 - 自定义字节起始点与结束点。
 
 - 表达式计算字节位置。
+
+- 简体中文语言支持。
 
 
 # System requirements / 系统要求 
